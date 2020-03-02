@@ -27,4 +27,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# QT's ui files
+*.ui
+
 # End of https://www.gitignore.io/api/windows
